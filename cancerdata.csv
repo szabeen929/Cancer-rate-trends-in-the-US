@@ -1,0 +1,451 @@
+﻿Year,Race,AgeGroup,PctDiagnosed
+2010,White,Under 20,59
+2010,White,20 to 29,76
+2010,White,30 to 39,73
+2010,White,40 to 49,76
+2010,White,50 to 59,77
+2010,White,60 to 69,82
+2010,White,70 to 79,85
+2010,White,80 to 89,88
+2010,White,90 and over,85
+2010,Black,Under 20,24
+2010,Black,20 to 29,10
+2010,Black,30 to 39,11
+2010,Black,40 to 49,15
+2010,Black,50 to 59,16
+2010,Black,60 to 69,12
+2010,Black,70 to 79,9
+2010,Black,80 to 89,7
+2010,Black,90 and over,8
+2010,Hispanic,Under 20,17
+2010,Hispanic,20 to 29,10
+2010,Hispanic,30 to 39,10
+2010,Hispanic,40 to 49,4
+2010,Hispanic,50 to 59,3
+2010,Hispanic,60 to 69,3
+2010,Hispanic,70 to 79,3
+2010,Hispanic,80 to 89,3
+2010,Hispanic,90 and over,3
+2010,Asian and Pacific Islander,Under 20,
+2010,Asian and Pacific Islander,20 to 29,2
+2010,Asian and Pacific Islander,30 to 39,5
+2010,Asian and Pacific Islander,40 to 49,3
+2010,Asian and Pacific Islander,50 to 59,2
+2010,Asian and Pacific Islander,60 to 69,2
+2010,Asian and Pacific Islander,70 to 79,2
+2010,Asian and Pacific Islander,80 to 89,2
+2010,Asian and Pacific Islander,90 and over,3
+2010,Native American,Under 20,1
+2010,Native American,20 to 29,0
+2010,Native American,30 to 39,0
+2010,Native American,40 to 49,0
+2010,Native American,50 to 59,0
+2010,Native American,60 to 69,0
+2010,Native American,70 to 79,0
+2010,Native American,80 to 89,0
+2010,Native American,90 and over,0
+2011,White,Under 20,80
+2011,White,20 to 29,65
+2011,White,30 to 39,69
+2011,White,40 to 49,74
+2011,White,50 to 59,77
+2011,White,60 to 69,82
+2011,White,70 to 79,85
+2011,White,80 to 89,87
+2011,White,90 and over,88
+2011,Black,Under 20,
+2011,Black,20 to 29,14
+2011,Black,30 to 39,11
+2011,Black,40 to 49,16
+2011,Black,50 to 59,16
+2011,Black,60 to 69,12
+2011,Black,70 to 79,9
+2011,Black,80 to 89,7
+2011,Black,90 and over,7
+2011,Hispanic,Under 20,8
+2011,Hispanic,20 to 29,13
+2011,Hispanic,30 to 39,9
+2011,Hispanic,40 to 49,4
+2011,Hispanic,50 to 59,3
+2011,Hispanic,60 to 69,3
+2011,Hispanic,70 to 79,3
+2011,Hispanic,80 to 89,3
+2011,Hispanic,90 and over,3
+2011,Asian and Pacific Islander,Under 20,0
+2011,Asian and Pacific Islander,20 to 29,6
+2011,Asian and Pacific Islander,30 to 39,8
+2011,Asian and Pacific Islander,40 to 49,4
+2011,Asian and Pacific Islander,50 to 59,2
+2011,Asian and Pacific Islander,60 to 69,2
+2011,Asian and Pacific Islander,70 to 79,2
+2011,Asian and Pacific Islander,80 to 89,2
+2011,Asian and Pacific Islander,90 and over,2
+2011,Native American,Under 20,0
+2011,Native American,20 to 29,0
+2011,Native American,30 to 39,0
+2011,Native American,40 to 49,0
+2011,Native American,50 to 59,0
+2011,Native American,60 to 69,0
+2011,Native American,70 to 79,0
+2011,Native American,80 to 89,0
+2011,Native American,90 and over,0
+2012,White,Under 20,67
+2012,White,20 to 29,69
+2012,White,30 to 39,68
+2012,White,40 to 49,74
+2012,White,50 to 59,76
+2012,White,60 to 69,82
+2012,White,70 to 79,85
+2012,White,80 to 89,87
+2012,White,90 and over,87
+2012,Black,Under 20,21
+2012,Black,20 to 29,14
+2012,Black,30 to 39,14
+2012,Black,40 to 49,16
+2012,Black,50 to 59,17
+2012,Black,60 to 69,12
+2012,Black,70 to 79,9
+2012,Black,80 to 89,7
+2012,Black,90 and over,5
+2012,Hispanic,Under 20,12
+2012,Hispanic,20 to 29,9
+2012,Hispanic,30 to 39,10
+2012,Hispanic,40 to 49,4
+2012,Hispanic,50 to 59,3
+2012,Hispanic,60 to 69,3
+2012,Hispanic,70 to 79,3
+2012,Hispanic,80 to 89,3
+2012,Hispanic,90 and over,2
+2012,Asian and Pacific Islander,Under 20,0
+2012,Asian and Pacific Islander,20 to 29,6
+2012,Asian and Pacific Islander,30 to 39,6
+2012,Asian and Pacific Islander,40 to 49,4
+2012,Asian and Pacific Islander,50 to 59,2
+2012,Asian and Pacific Islander,60 to 69,2
+2012,Asian and Pacific Islander,70 to 79,2
+2012,Asian and Pacific Islander,80 to 89,3
+2012,Asian and Pacific Islander,90 and over,4
+2012,Native American,Under 20,0
+2012,Native American,20 to 29,1
+2012,Native American,30 to 39,0
+2012,Native American,40 to 49,0
+2012,Native American,50 to 59,0
+2012,Native American,60 to 69,0
+2012,Native American,70 to 79,0
+2012,Native American,80 to 89,0
+2012,Native American,90 and over,0
+2013,White,Under 20,56
+2013,White,20 to 29,68
+2013,White,30 to 39,71
+2013,White,40 to 49,76
+2013,White,50 to 59,77
+2013,White,60 to 69,81
+2013,White,70 to 79,84
+2013,White,80 to 89,87
+2013,White,90 and over,87
+2013,Black,Under 20,18
+2013,Black,20 to 29,12
+2013,Black,30 to 39,17
+2013,Black,40 to 49,13
+2013,Black,50 to 59,16
+2013,Black,60 to 69,12
+2013,Black,70 to 79,9
+2013,Black,80 to 89,7
+2013,Black,90 and over,6
+2013,Hispanic,Under 20,18
+2013,Hispanic,20 to 29,8
+2013,Hispanic,30 to 39,12
+2013,Hispanic,40 to 49,5
+2013,Hispanic,50 to 59,3
+2013,Hispanic,60 to 69,3
+2013,Hispanic,70 to 79,3
+2013,Hispanic,80 to 89,3
+2013,Hispanic,90 and over,3
+2013,Asian and Pacific Islander,Under 20,0
+2013,Asian and Pacific Islander,20 to 29,9
+2013,Asian and Pacific Islander,30 to 39,7
+2013,Asian and Pacific Islander,40 to 49,5
+2013,Asian and Pacific Islander,50 to 59,3
+2013,Asian and Pacific Islander,60 to 69,3
+2013,Asian and Pacific Islander,70 to 79,2
+2013,Asian and Pacific Islander,80 to 89,2
+2013,Asian and Pacific Islander,90 and over,3
+2013,Native American,Under 20,0
+2013,Native American,20 to 29,1
+2013,Native American,30 to 39,1
+2013,Native American,40 to 49,1
+2013,Native American,50 to 59,0
+2013,Native American,60 to 69,0
+2013,Native American,70 to 79,0
+2013,Native American,80 to 89,0
+2013,Native American,90 and over,0
+2014,White,Under 20,55
+2014,White,20 to 29,63
+2014,White,30 to 39,65
+2014,White,40 to 49,74
+2014,White,50 to 59,77
+2014,White,60 to 69,81
+2014,White,70 to 79,85
+2014,White,80 to 89,86
+2014,White,90 and over,87
+2014,Black,Under 20,15
+2014,Black,20 to 29,13
+2014,Black,30 to 39,16
+2014,Black,40 to 49,15
+2014,Black,50 to 59,16
+2014,Black,60 to 69,12
+2014,Black,70 to 79,9
+2014,Black,80 to 89,8
+2014,Black,90 and over,7
+2014,Hispanic,Under 20,30
+2014,Hispanic,20 to 29,12
+2014,Hispanic,30 to 39,10
+2014,Hispanic,40 to 49,5
+2014,Hispanic,50 to 59,3
+2014,Hispanic,60 to 69,3
+2014,Hispanic,70 to 79,3
+2014,Hispanic,80 to 89,3
+2014,Hispanic,90 and over,3
+2014,Asian and Pacific Islander,Under 20,
+2014,Asian and Pacific Islander,20 to 29,9
+2014,Asian and Pacific Islander,30 to 39,7
+2014,Asian and Pacific Islander,40 to 49,5
+2014,Asian and Pacific Islander,50 to 59,3
+2014,Asian and Pacific Islander,60 to 69,3
+2014,Asian and Pacific Islander,70 to 79,2
+2014,Asian and Pacific Islander,80 to 89,3
+2014,Asian and Pacific Islander,90 and over,3
+2014,Native American,Under 20,0
+2014,Native American,20 to 29,1
+2014,Native American,30 to 39,0
+2014,Native American,40 to 49,0
+2014,Native American,50 to 59,0
+2014,Native American,60 to 69,0
+2014,Native American,70 to 79,0
+2014,Native American,80 to 89,0
+2014,Native American,90 and over,0
+2015,White,Under 20,37
+2015,White,20 to 29,61
+2015,White,30 to 39,63
+2015,White,40 to 49,75
+2015,White,50 to 59,77
+2015,White,60 to 69,80
+2015,White,70 to 79,84
+2015,White,80 to 89,86
+2015,White,90 and over,85
+2015,Black,Under 20,20
+2015,Black,20 to 29,14
+2015,Black,30 to 39,18
+2015,Black,40 to 49,13
+2015,Black,50 to 59,16
+2015,Black,60 to 69,12
+2015,Black,70 to 79,9
+2015,Black,80 to 89,7
+2015,Black,90 and over,6
+2015,Hispanic,Under 20,33
+2015,Hispanic,20 to 29,12
+2015,Hispanic,30 to 39,10
+2015,Hispanic,40 to 49,5
+2015,Hispanic,50 to 59,3
+2015,Hispanic,60 to 69,3
+2015,Hispanic,70 to 79,3
+2015,Hispanic,80 to 89,3
+2015,Hispanic,90 and over,3
+2015,Asian and Pacific Islander,Under 20,10
+2015,Asian and Pacific Islander,20 to 29,12
+2015,Asian and Pacific Islander,30 to 39,7
+2015,Asian and Pacific Islander,40 to 49,5
+2015,Asian and Pacific Islander,50 to 59,3
+2015,Asian and Pacific Islander,60 to 69,3
+2015,Asian and Pacific Islander,70 to 79,2
+2015,Asian and Pacific Islander,80 to 89,3
+2015,Asian and Pacific Islander,90 and over,4
+2015,Native American,Under 20,0
+2015,Native American,20 to 29,0
+2015,Native American,30 to 39,0
+2015,Native American,40 to 49,0
+2015,Native American,50 to 59,0
+2015,Native American,60 to 69,0
+2015,Native American,70 to 79,0
+2015,Native American,80 to 89,0
+2015,Native American,90 and over,0
+2016,White,Under 20,63
+2016,White,20 to 29,65
+2016,White,30 to 39,69
+2016,White,40 to 49,72
+2016,White,50 to 59,77
+2016,White,60 to 69,80
+2016,White,70 to 79,84
+2016,White,80 to 89,86
+2016,White,90 and over,86
+2016,Black,Under 20,23
+2016,Black,20 to 29,14
+2016,Black,30 to 39,16
+2016,Black,40 to 49,13
+2016,Black,50 to 59,16
+2016,Black,60 to 69,12
+2016,Black,70 to 79,9
+2016,Black,80 to 89,7
+2016,Black,90 and over,7
+2016,Hispanic,Under 20,10
+2016,Hispanic,20 to 29,13
+2016,Hispanic,30 to 39,10
+2016,Hispanic,40 to 49,6
+2016,Hispanic,50 to 59,3
+2016,Hispanic,60 to 69,3
+2016,Hispanic,70 to 79,3
+2016,Hispanic,80 to 89,3
+2016,Hispanic,90 and over,3
+2016,Asian and Pacific Islander,Under 20,0
+2016,Asian and Pacific Islander,20 to 29,3
+2016,Asian and Pacific Islander,30 to 39,7
+2016,Asian and Pacific Islander,40 to 49,6
+2016,Asian and Pacific Islander,50 to 59,3
+2016,Asian and Pacific Islander,60 to 69,3
+2016,Asian and Pacific Islander,70 to 79,3
+2016,Asian and Pacific Islander,80 to 89,3
+2016,Asian and Pacific Islander,90 and over,4
+2016,Native American,Under 20,0
+2016,Native American,20 to 29,1
+2016,Native American,30 to 39,0
+2016,Native American,40 to 49,1
+2016,Native American,50 to 59,0
+2016,Native American,60 to 69,0
+2016,Native American,70 to 79,0
+2016,Native American,80 to 89,0
+2016,Native American,90 and over,0
+2017,White,Under 20,50
+2017,White,20 to 29,69
+2017,White,30 to 39,62
+2017,White,40 to 49,71
+2017,White,50 to 59,77
+2017,White,60 to 69,79
+2017,White,70 to 79,84
+2017,White,80 to 89,85
+2017,White,90 and over,85
+2017,Black,Under 20,14
+2017,Black,20 to 29,10
+2017,Black,30 to 39,17
+2017,Black,40 to 49,14
+2017,Black,50 to 59,15
+2017,Black,60 to 69,13
+2017,Black,70 to 79,9
+2017,Black,80 to 89,7
+2017,Black,90 and over,7
+2017,Hispanic,Under 20,11
+2017,Hispanic,20 to 29,9
+2017,Hispanic,30 to 39,9
+2017,Hispanic,40 to 49,7
+2017,Hispanic,50 to 59,3
+2017,Hispanic,60 to 69,3
+2017,Hispanic,70 to 79,3
+2017,Hispanic,80 to 89,4
+2017,Hispanic,90 and over,3
+2017,Asian and Pacific Islander,Under 20,14
+2017,Asian and Pacific Islander,20 to 29,7
+2017,Asian and Pacific Islander,30 to 39,11
+2017,Asian and Pacific Islander,40 to 49,6
+2017,Asian and Pacific Islander,50 to 59,3
+2017,Asian and Pacific Islander,60 to 69,3
+2017,Asian and Pacific Islander,70 to 79,3
+2017,Asian and Pacific Islander,80 to 89,3
+2017,Asian and Pacific Islander,90 and over,3
+2017,Native American,Under 20,0
+2017,Native American,20 to 29,2
+2017,Native American,30 to 39,0
+2017,Native American,40 to 49,0
+2017,Native American,50 to 59,0
+2017,Native American,60 to 69,0
+2017,Native American,70 to 79,0
+2017,Native American,80 to 89,0
+2017,Native American,90 and over,0
+2018,White,Under 20,55
+2018,White,20 to 29,68
+2018,White,30 to 39,61
+2018,White,40 to 49,69
+2018,White,50 to 59,77
+2018,White,60 to 69,79
+2018,White,70 to 79,83
+2018,White,80 to 89,84
+2018,White,90 and over,85
+2018,Black,Under 20,12
+2018,Black,20 to 29,15
+2018,Black,30 to 39,15
+2018,Black,40 to 49,15
+2018,Black,50 to 59,15
+2018,Black,60 to 69,13
+2018,Black,70 to 79,10
+2018,Black,80 to 89,8
+2018,Black,90 and over,6
+2018,Hispanic,Under 20,19
+2018,Hispanic,20 to 29,9
+2018,Hispanic,30 to 39,11
+2018,Hispanic,40 to 49,7
+2018,Hispanic,50 to 59,4
+2018,Hispanic,60 to 69,3
+2018,Hispanic,70 to 79,3
+2018,Hispanic,80 to 89,3
+2018,Hispanic,90 and over,4
+2018,Asian and Pacific Islander,Under 20,3
+2018,Asian and Pacific Islander,20 to 29,6
+2018,Asian and Pacific Islander,30 to 39,10
+2018,Asian and Pacific Islander,40 to 49,7
+2018,Asian and Pacific Islander,50 to 59,3
+2018,Asian and Pacific Islander,60 to 69,3
+2018,Asian and Pacific Islander,70 to 79,3
+2018,Asian and Pacific Islander,80 to 89,3
+2018,Asian and Pacific Islander,90 and over,4
+2018,Native American,Under 20,1
+2018,Native American,20 to 29,0
+2018,Native American,30 to 39,0
+2018,Native American,40 to 49,1
+2018,Native American,50 to 59,0
+2018,Native American,60 to 69,0
+2018,Native American,70 to 79,0
+2018,Native American,80 to 89,0
+2018,Native American,90 and over,0
+2019,White,Under 20,74
+2019,White,20 to 29,62
+2019,White,30 to 39,65
+2019,White,40 to 49,68
+2019,White,50 to 59,76
+2019,White,60 to 69,79
+2019,White,70 to 79,83
+2019,White,80 to 89,84
+2019,White,90 and over,82
+2019,Black,Under 20,14
+2019,Black,20 to 29,15
+2019,Black,30 to 39,15
+2019,Black,40 to 49,16
+2019,Black,50 to 59,15
+2019,Black,60 to 69,14
+2019,Black,70 to 79,10
+2019,Black,80 to 89,8
+2019,Black,90 and over,9
+2019,Hispanic,Under 20,11
+2019,Hispanic,20 to 29,14
+2019,Hispanic,30 to 39,9
+2019,Hispanic,40 to 49,7
+2019,Hispanic,50 to 59,4
+2019,Hispanic,60 to 69,3
+2019,Hispanic,70 to 79,3
+2019,Hispanic,80 to 89,3
+2019,Hispanic,90 and over,4
+2019,Asian and Pacific Islander,Under 20,0
+2019,Asian and Pacific Islander,20 to 29,6
+2019,Asian and Pacific Islander,30 to 39,9
+2019,Asian and Pacific Islander,40 to 49,7
+2019,Asian and Pacific Islander,50 to 59,4
+2019,Asian and Pacific Islander,60 to 69,3
+2019,Asian and Pacific Islander,70 to 79,3
+2019,Asian and Pacific Islander,80 to 89,3
+2019,Asian and Pacific Islander,90 and over,4
+2019,Native American,Under 20,0
+2019,Native American,20 to 29,1
+2019,Native American,30 to 39,0
+2019,Native American,40 to 49,0
+2019,Native American,50 to 59,0
+2019,Native American,60 to 69,0
+2019,Native American,70 to 79,0
+2019,Native American,80 to 89,0
+2019,Native American,90 and over,0
